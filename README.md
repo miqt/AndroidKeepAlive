@@ -1,5 +1,7 @@
 # AndroidKeepAlive
 
+2022年4月27日
+
 目前可以实现Android 4-12保活，有以下特点
 
 1. 拒绝应用强杀
