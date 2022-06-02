@@ -20,7 +20,7 @@
 2. 以上支持oppo，vivo，华为，小米，原生等主流机型
 
 
-联系作者：miqtdev@163.com  微信：miqingtang
+联系作者：miqtdev@163.com  微信：wandfix
 
 **演示** ：
 
