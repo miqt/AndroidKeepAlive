@@ -2,6 +2,7 @@
 
 2022年7月11日更新：新增现已支持小米 miui 12 设备
 
+
 目前可以实现Android 4-12保活，有以下特点
 
 1. 拒绝应用强杀
@@ -28,4 +29,4 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | Oppo强杀  <br />![oppo强杀](https://user-images.githubusercontent.com/15975726/163749599-28144f3f-5208-498e-897c-b81224e9abe9.gif) | 小米强杀 <br />![xiaomi强杀](https://user-images.githubusercontent.com/15975726/163749624-e10add28-dec1-4818-a1e5-cf319f6da45d.gif) | 华为强杀<br />![华为强杀](https://user-images.githubusercontent.com/15975726/163750798-1f53d61a-0263-4f4a-b93b-adca23b3bf07.gif) |
 |                                                              | 关掉所有权限并清理缓存强杀  <br />![xiaomi强杀关掉所有权限清理缓存](https://user-images.githubusercontent.com/15975726/163749719-1a5be93f-a3f9-4f0b-b09c-049da5791e22.gif) |                                                              |
-|                                                              |             ![xiaomi强杀](https://raw.githubusercontent.com/miqt/AndroidKeepAlive/main/20220711_202532.gif)             |                                                              |
+|                                                              | miui 12 android 10 <br />![xiaomi强杀](./20220711_202532.gif)             |                                                              |
